@@ -32,6 +32,9 @@ ul {
 .nav-link:focus {
   color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 .address-link {
   font-size: 16px;
   line-height: 1.5;
@@ -44,8 +47,6 @@ ul {
 }
 .hero {
   background: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 .hero-title {
   font-weight: 700;
@@ -122,6 +123,7 @@ ul {
   color: #434455;
 }
 .portfolio {
+  background-color: #f4f4fd;
 }
 .portfolio-title {
   font-weight: 700;
@@ -156,7 +158,7 @@ ul {
   background: #2e2f42;
 }
 
-.logo-part-2 {
+.logo-part-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
